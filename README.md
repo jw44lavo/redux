@@ -8,7 +8,13 @@ See [redux](https://osf.io/uxpv4/) at OSF to get the data.
 # Abstract
 [...]
 
-<img src="https://github.com/jw44lavo/redux/blob/main/workflow_git.png" alt="Workflow visualization" width="250">
+
+
+<p align="center">
+  <img src="https://github.com/jw44lavo/redux/blob/main/workflow_git.png" alt="Workflow visualization" width="250" />
+</p>
+
+
 
 # Getting started
 
