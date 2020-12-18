@@ -11,7 +11,7 @@ See [redux](https://osf.io/uxpv4/) at OSF to get the data.
 
 
 <p align="center">
-  <img src="https://github.com/jw44lavo/redux/blob/main/workflow_git.png" alt="Workflow visualization" width="250" />
+  <img src="https://github.com/jw44lavo/redux/blob/main/workflow_git.png" alt="Workflow visualization" width="350" />
 </p>
 
 
